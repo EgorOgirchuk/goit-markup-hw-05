@@ -585,7 +585,7 @@ main {
 
 /*===================================*/
 
-.backdrop {
+.modal-ovarlay {
   position: fixed;
   background: rgba(46, 47, 66, 0.4);
   left: 0;
