@@ -559,7 +559,7 @@ main {
   display: flex;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   background: #4d5ae5;
   font-weight: 500;
@@ -567,6 +567,8 @@ main {
   line-height: 1.5;
   letter-spacing: 0.04em;
   text-align: center;
+  align-items: center;
+  justify-content: center;
   color: #fff;
   border: none;
 }
