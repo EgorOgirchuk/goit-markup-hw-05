@@ -665,6 +665,7 @@ main {
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
   background-color: transparent;
+  margin-bottom: 8px;
 }
 
 .modal-field:focus {
@@ -713,6 +714,10 @@ main {
 
 .modal-input-wrap {
   position: relative;
+}
+
+.textarea {
+  margin-bottom: 16px;
 }
 
 .modal-text {
