@@ -585,7 +585,7 @@ main {
 
 /*===================================*/
 
-.modal-ovarlay {
+.backdrop {
   position: fixed;
   background: rgba(46, 47, 66, 0.4);
   left: 0;
@@ -612,9 +612,6 @@ main {
   padding: 72px 24px 24px 24px;
 }
 
-.modal-container {
-  margin-bottom: 24px;
-}
 .modal-close {
   display: block;
   margin-left: auto;
