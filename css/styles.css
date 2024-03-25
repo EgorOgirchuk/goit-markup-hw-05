@@ -612,6 +612,9 @@ main {
   padding: 72px 24px 24px 24px;
 }
 
+.modal-container {
+  margin-bottom: 24px;
+}
 .modal-close {
   display: block;
   margin-left: auto;
@@ -721,7 +724,6 @@ main {
 }
 
 .modal-text {
-  display: flex;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
